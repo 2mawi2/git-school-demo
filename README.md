@@ -1,1 +1,0 @@
-# Git School – Demo Project
